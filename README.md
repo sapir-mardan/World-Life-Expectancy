@@ -17,10 +17,10 @@ A concise SQL-focused project analyzing global life expectancy from 2000–2015.
 
 ## Files
 
-The SQL used in this project is presented as screenshots within the notebook, and a full `.sql` file is now included for direct review. This still demonstrates query structure, logic, and workflow even though the raw `.sql` files are not included.
+The SQL used in this project is presented as screenshots within the notebook, and a full `.sql` file is now included for direct review (well documented as well).
 
 * **World Life Expectancy Project.ipynb** – full SQL workflow and commentary
-* **queries.sql** – SQL script containing all queries used in the project
+* **Life_Expectancy.sql** – SQL script containing all queries used in the project
 
 ## How to View
 
